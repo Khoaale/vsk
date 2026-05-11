@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0F0F0F" />
+    <meta name="color-scheme" content="dark" />
+    <title>VSK — Bài hướng dẫn</title>
+    <link rel="manifest" href="manifest.json" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="top">
+      <div class="container">
+        <div class="brand">
+          <a class="btn btn--tiny" href="/" aria-label="Về trang chủ">←</a>
+          <div class="brand__text">
+            <div class="brand__title">Sổ tay Sinh tồn VN</div>
+            <div class="brand__sub" id="article-meta">Đang tải…</div>
+          </div>
+        </div>
+        <div class="top__actions">
+          <span
+            class="net-status"
+            id="net-status"
+            title="Mạng: trực tuyến"
+            role="status"
+            aria-live="polite"
+            aria-label="Trực tuyến"
+          >
+            <span class="net-status__dot" aria-hidden="true"></span>
+          </span>
+        </div>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="hero">
+        <h1 id="article-title" class="article__title">Đang tải…</h1>
+        <p id="article-summary" class="article__summary"></p>
+      </section>
+
+      <section id="steps" class="steps" aria-live="polite"></section>
+
+      <footer class="footer">
+        <div class="footer__row">
+          <span class="footer__muted">VSK PWA</span>
+          <a class="footer__link" href="/">Trang chủ</a>
+        </div>
+      </footer>
+    </main>
+
+    <script defer src="app.js"></script>
+  </body>
+</html>

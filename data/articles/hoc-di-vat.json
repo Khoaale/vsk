@@ -1,0 +1,37 @@
+{
+  "id": "hoc-di-vat",
+  "title": "Sơ cứu hóc dị vật (Heimlich)",
+  "category": "emergency",
+  "timeframe": "0-72h",
+  "urgency": "critical",
+  "icon": "user-x",
+  "summary": "Nghiệm pháp Heimlich đẩy dị vật ra khỏi đường thở đang bị tắc nghẽn.",
+  "keywords": ["hóc", "nghẹt thở", "nghẹn", "dị vật", "heimlich"],
+  "steps": [
+    {
+      "title": "Bước 1: Đánh giá — còn ho được không?",
+      "body": "Nếu nạn nhân CÒN ho/nói được, khuyến khích ho thật mạnh, KHÔNG can thiệp. Chỉ can thiệp khi không thể ho, ôm cổ, mặt tím tái.",
+      "image": "hoc-di-vat-1.svg",
+      "warning": "Can thiệp khi nạn nhân còn tự ho có thể làm dị vật rơi sâu hơn vào khí quản."
+    },
+    {
+      "title": "Bước 2: Vỗ lưng 5 lần",
+      "body": "Cho nạn nhân cúi người về phía trước. Dùng gốc bàn tay vỗ mạnh 5 cái vào giữa 2 bả vai. Kiểm tra xem dị vật đã bật ra chưa.",
+      "image": "hoc-di-vat-2.svg",
+      "warning": null
+    },
+    {
+      "title": "Bước 3: Nghiệm pháp Heimlich",
+      "body": "Đứng sau lưng, vòng 2 tay quanh eo. Đặt nắm đấm tay ở VÙNG THƯỢNG VỊ. Tay kia nắm lấy cổ tay đó, GIẬT MẠNH hướng vào trong và lên trên 5 lần.",
+      "image": "hoc-di-vat-3.svg",
+      "warning": "KHÔNG áp dụng Heimlich cho trẻ dưới 1 tuổi và phụ nữ có thai (chỉ ấn ngực)."
+    }
+  ],
+  "references": [
+    {
+      "title": "Bệnh viện Nhi Trung ương (Hướng dẫn AHA)",
+      "url": "https://benhviennhi.org.vn"
+    }
+  ],
+  "lastUpdated": "2026-04-23"
+}

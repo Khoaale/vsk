@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0F0F0F" />
+    <meta name="color-scheme" content="dark" />
+    <title>VSK — Danh bạ khẩn cấp</title>
+    <link rel="manifest" href="manifest.json" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="top">
+      <div class="container">
+        <div class="brand">
+          <a class="btn btn--tiny" href="/" aria-label="Về trang chủ">←</a>
+          <div class="brand__text">
+            <div class="brand__title">Danh bạ khẩn cấp</div>
+            <div class="brand__sub" id="contacts-sub">Gọi nhanh • offline</div>
+          </div>
+        </div>
+        <div class="top__actions">
+          <span
+            class="net-status"
+            id="net-status"
+            title="Mạng: trực tuyến"
+            role="status"
+            aria-live="polite"
+            aria-label="Trực tuyến"
+          >
+            <span class="net-status__dot" aria-hidden="true"></span>
+          </span>
+        </div>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="hero">
+        <h1 class="article__title">Gọi ngay khi cần</h1>
+        <p class="article__summary">Các số khẩn cấp luôn sẵn, và bạn có thể thêm người thân.</p>
+      </section>
+
+      <section class="panel">
+        <div class="panel__head">
+          <h2 class="panel__title">Số khẩn cấp</h2>
+        </div>
+        <div id="contacts-fixed" class="panel__content"></div>
+      </section>
+
+      <section class="panel" style="margin-top: var(--space-4);">
+        <div class="panel__head">
+          <h2 class="panel__title">Thêm người thân</h2>
+        </div>
+        <div class="panel__content">
+          <form id="contacts-form" class="form">
+            <label class="form__label" for="contact-name">Tên</label>
+            <input id="contact-name" class="search__input" type="text" autocomplete="name" placeholder="Ví dụ: Mẹ / Anh A" required />
+
+            <label class="form__label" for="contact-phone" style="margin-top: var(--space-2);">Số điện thoại</label>
+            <input id="contact-phone" class="search__input" type="tel" inputmode="tel" autocomplete="tel" placeholder="Ví dụ: 09xxxxxxxx" required />
+
+            <div class="form__actions">
+              <button class="btn btn--primary" type="submit">Thêm số</button>
+            </div>
+          </form>
+        </div>
+      </section>
+
+      <section class="panel" style="margin-top: var(--space-4);">
+        <div class="panel__head">
+          <h2 class="panel__title">Số cá nhân</h2>
+          <button id="contacts-clear" class="btn btn--tiny btn--danger" type="button">Xóa hết</button>
+        </div>
+        <div id="contacts-user" class="panel__content"></div>
+      </section>
+
+      <footer class="footer">
+        <div class="footer__row">
+          <span class="footer__muted">Gọi bằng `tel:`</span>
+          <a class="footer__link" href="/">Trang chủ</a>
+        </div>
+      </footer>
+    </main>
+
+    <script defer src="app.js"></script>
+  </body>
+</html>
+

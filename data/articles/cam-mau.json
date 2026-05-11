@@ -1,0 +1,43 @@
+{
+  "id": "cam-mau",
+  "title": "Cầm máu vết thương nặng",
+  "category": "emergency",
+  "timeframe": "0-72h",
+  "urgency": "critical",
+  "icon": "bandage",
+  "summary": "Cách cầm máu hiệu quả tránh mất máu cấp, bảo vệ tính mạng.",
+  "keywords": ["máu", "cầm máu", "chảy máu", "vết thương", "đứt mạch"],
+  "steps": [
+    {
+      "title": "Bước 1: Ép trực tiếp lên vết thương",
+      "body": "Dùng gạc vô trùng hoặc vải sạch đè thật mạnh trực tiếp lên vết thương. Giữ liên tục ít nhất 10–15 phút không nhấc ra.",
+      "image": "cam-mau-1.svg",
+      "warning": "TUYỆT ĐỐI không nhấc gạc ra để kiểm tra — sẽ làm tan cục máu đông, máu chảy lại dữ dội hơn."
+    },
+    {
+      "title": "Bước 2: Nâng chi bị thương cao hơn tim",
+      "body": "Nâng chi cao hơn tim trong khi vẫn ép để giảm áp lực máu. Đặt nạn nhân nằm đầu thấp chân cao để máu dồn về tim, não.",
+      "image": "cam-mau-2.svg",
+      "warning": null
+    },
+    {
+      "title": "Bước 3: Máu thấm qua — thêm lớp mới",
+      "body": "Nếu máu thấm qua lớp gạc đầu, KHÔNG bỏ ra. Chồng thêm lớp vải sạch mới lên trên và tiếp tục ép mạnh. Băng cuộn quanh để cố định.",
+      "image": "cam-mau-3.svg",
+      "warning": "Nếu đầu ngón tay/chân chuyển tím tái, lạnh, tê — băng đang quá chặt, phải nới lỏng ngay."
+    },
+    {
+      "title": "Bước 4: Dị vật cắm sâu — KHÔNG rút",
+      "body": "Nếu có dao, kim loại, thủy tinh cắm sâu, TUYỆT ĐỐI không rút ra. Chèn gạc xung quanh dị vật để cố định, rồi băng quanh.",
+      "image": "cam-mau-4.svg",
+      "warning": "Rút dị vật cắm sâu có thể gây mất máu cấp và tử vong trong vài phút."
+    }
+  ],
+  "references": [
+    {
+      "title": "Bệnh viện Nhi Trung ương; Cổng thông tin Bộ Y tế",
+      "url": "https://moh.gov.vn"
+    }
+  ],
+  "lastUpdated": "2026-04-23"
+}

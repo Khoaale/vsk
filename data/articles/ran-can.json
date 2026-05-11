@@ -1,0 +1,49 @@
+{
+  "id": "ran-can",
+  "title": "Sơ cứu khi bị rắn cắn",
+  "category": "emergency",
+  "timeframe": "0-72h",
+  "urgency": "critical",
+  "icon": "alert-triangle",
+  "summary": "5 bước xử lý ngay khi bị rắn cắn ở Việt Nam. Tránh các sai lầm phổ biến có thể gây hoại tử hoặc tử vong.",
+  "keywords": ["rắn", "cắn", "độc", "nọc", "hổ mang", "lục"],
+  "steps": [
+    {
+      "title": "Bước 1: Giữ bình tĩnh, không cử động",
+      "body": "Ngồi hoặc nằm yên ngay tại chỗ. Không chạy, không tự đi bộ. Cử động mạnh làm nọc độc lan nhanh qua đường bạch huyết.",
+      "image": "ran-can-1.svg",
+      "warning": "TUYỆT ĐỐI không để nạn nhân tự đi lại đến cơ sở y tế — phải được khiêng hoặc chở bằng xe."
+    },
+    {
+      "title": "Bước 2: Tháo trang sức, đặt chi thấp hơn tim",
+      "body": "Tháo ngay nhẫn, vòng, đồng hồ, giày ở chi bị cắn TRƯỚC khi vùng đó sưng nề. Nới lỏng quần áo chật. Giữ vùng bị cắn thấp hơn tim để làm chậm nọc độc về tuần hoàn trung tâm.",
+      "image": "ran-can-2.svg",
+      "warning": null
+    },
+    {
+      "title": "Bước 3: Rửa nhẹ vết cắn",
+      "body": "Rửa vết cắn dưới vòi nước sạch với xà phòng hoặc nước muối sinh lý. Không chà xát mạnh. Không đắp lá cây, không bôi hóa chất, không uống thuốc nam.",
+      "image": "ran-can-3.svg",
+      "warning": "TUYỆT ĐỐI không rạch, chích, nặn máu, hay hút nọc bằng miệng — không lấy được nọc độc mà gây nhiễm trùng nặng, tổn thương mạch máu và thần kinh."
+    },
+    {
+      "title": "Bước 4: Băng ép bất động (tùy loại rắn)",
+      "body": "Với rắn HỔ: dùng băng vải bản rộng băng từ đầu ngón chi lên hết chi bị cắn, chặt vừa đủ rồi nẹp cứng. Với rắn LỤC: KHÔNG băng ép vì sẽ làm vết thương nặng thêm, chỉ bất động chi.",
+      "image": "ran-can-4.svg",
+      "warning": "TUYỆT ĐỐI không garô (buộc dây thắt chặt phía trên vết cắn). Garô gây thiếu máu, hoại tử chi, nhiều ca phải cắt cụt tay/chân."
+    },
+    {
+      "title": "Bước 5: Chuyển đến bệnh viện NGAY",
+      "body": "Gọi 115 hoặc chở nạn nhân đến bệnh viện ngay. Huyết thanh kháng nọc hiệu quả nhất trong 6 giờ đầu. Nếu có thể, chụp ảnh con rắn từ khoảng cách AN TOÀN để bác sĩ nhận dạng.",
+      "image": "ran-can-5.svg",
+      "warning": "Không uống rượu, cà phê, hay thuốc giảm đau — làm tăng tốc độ hấp thu nọc độc và có thể gây chảy máu nặng hơn."
+    }
+  ],
+  "references": [
+    {
+      "title": "Phác đồ điều trị rắn cắn – Bộ Y tế Việt Nam",
+      "url": "https://moh.gov.vn"
+    }
+  ],
+  "lastUpdated": "2026-04-23"
+}

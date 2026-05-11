@@ -1,0 +1,43 @@
+{
+  "id": "loc-nuoc",
+  "title": "Lọc và khử trùng nước uống",
+  "category": "survival",
+  "timeframe": "0-72h",
+  "urgency": "high",
+  "icon": "droplet",
+  "summary": "Quy trình chuẩn Bộ Y tế để có nước uống an toàn: Làm trong, khử trùng và đun sôi.",
+  "keywords": ["nước", "lọc", "khát", "đun sôi", "cloramin b", "aquatabs"],
+  "steps": [
+    {
+      "title": "Bước 1: Chọn nguồn nước ít ô nhiễm nhất",
+      "body": "Ưu tiên: nước mưa hứng trực tiếp > nước giếng sâu > nước suối đầu nguồn > nước sông > nước ao hồ. Tránh nước có váng dầu, mùi hôi, màu lạ.",
+      "image": "loc-nuoc-1.svg",
+      "warning": "Không uống nước biển kể cả khi đun sôi — muối cô đặc sẽ làm cơ thể mất nước nhanh hơn và gây suy thận."
+    },
+    {
+      "title": "Bước 2: LÀM TRONG nước (loại cặn bẩn)",
+      "body": "Dùng phèn chua (1g cho 20 lít nước) khuấy đều, chờ 30 phút cho cặn lắng rồi gạn lấy phần nước trong. Hoặc dùng nhiều lớp vải sạch để lọc.",
+      "image": "loc-nuoc-2.svg",
+      "warning": "Làm trong KHÔNG phải khử trùng. Nước trong vẫn chứa vi khuẩn, virus — phải tiếp tục bước 3."
+    },
+    {
+      "title": "Bước 3: KHỬ TRÙNG bằng Cloramin B hoặc Aquatabs",
+      "body": "Dùng 1 viên Cloramin B 0,25g cho 25 lít nước đã làm trong (hoặc 1 viên Aquatabs 67mg cho 20 lít). Khuấy đều, đậy kín, chờ 30 phút.",
+      "image": "loc-nuoc-3.svg",
+      "warning": "KHÔNG trộn phèn chua với Cloramin B cùng lúc — phèn làm mất tác dụng khử trùng của clo. Làm trong trước, xong mới khử trùng."
+    },
+    {
+      "title": "Bước 4: ĐUN SÔI trước khi uống",
+      "body": "Nước vẫn PHẢI đun sôi mới uống trực tiếp được. Đun đến sôi sùng sục và giữ sôi ít nhất 1 phút. Nếu không có hóa chất khử trùng, đun sôi 10 phút liên tục.",
+      "image": "loc-nuoc-4.svg",
+      "warning": "Đun sôi KHÔNG loại bỏ được hóa chất độc, kim loại nặng, thuốc trừ sâu — chỉ diệt vi sinh."
+    }
+  ],
+  "references": [
+    {
+      "title": "Hướng dẫn xử lý nước mùa bão lũ - Bộ Y tế",
+      "url": "https://suckhoedoisong.vn"
+    }
+  ],
+  "lastUpdated": "2026-04-23"
+}

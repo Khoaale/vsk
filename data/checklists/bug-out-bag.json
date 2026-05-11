@@ -1,0 +1,11 @@
+{
+    "title": "Túi sinh tồn 72 giờ (Bug-out Bag)",
+    "items": [
+      { "id": "nuoc", "label": "Nước uống (tối thiểu 2 lít/người/ngày)" },
+      { "id": "do-an", "label": "Lương khô, đồ hộp, thanh năng lượng" },
+      { "id": "den-pin", "label": "Đèn pin và pin dự phòng" },
+      { "id": "y-te", "label": "Bộ sơ cứu y tế cơ bản (bông, băng, cồn, oresol)" },
+      { "id": "giay-to", "label": "Bản sao giấy tờ tùy thân (bọc túi chống nước)" },
+      { "id": "tien", "label": "Tiền mặt (mệnh giá nhỏ)" }
+    ]
+  }

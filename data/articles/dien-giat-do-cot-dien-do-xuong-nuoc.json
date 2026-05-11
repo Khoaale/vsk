@@ -1,0 +1,52 @@
+{
+  "id": "dien-giat-do-cot-dien-do-xuong-nuoc",
+  "title": "Sơ cứu nạn nhân bị điện giật (Cột điện)",
+  "category": "emergency",
+  "timeframe": "0-1h",
+  "urgency": "critical",
+  "summary": "Ngắt nguồn điện an toàn trước khi tiếp cận và kiểm tra dấu hiệu sinh tồn của nạn nhân.",
+  "keywords": [
+    "điện giật",
+    "cột điện",
+    "sốc điện",
+    "CPR",
+    "an toàn"
+  ],
+  "reasoning_trace": "Nguy cơ tử vong cao do dòng điện và nguy cơ tiếp xúc với nguồn điện còn hoạt động. Ưu tiên hàng đầu là đảm bảo an toàn cho người cứu hộ (ngắt điện) trước khi thực hiện các biện pháp cấp cứu.",
+  "references": [
+    "Bộ Y tế Việt Nam",
+    "Các hướng dẫn sơ cứu quốc tế"
+  ],
+  "steps": [
+    {
+      "title": "Đảm bảo an toàn tuyệt đối",
+      "body": "KHÔNG chạm trực tiếp vào nạn nhân nếu nguồn điện vẫn đang hoạt động. Sử dụng vật liệu cách điện (gậy khô, gỗ) để đẩy nạn nhân ra xa hoặc ngắt cầu dao/nguồn điện chính.",
+      "warning": "Tuyệt đối không tự ý chạm vào nạn nhân khi chưa chắc chắn nguồn điện đã bị cắt!",
+      "image": "placeholder.svg"
+    },
+    {
+      "title": "Gọi cấp cứu",
+      "body": "Gọi ngay 115 và thông báo rõ tình trạng (bị điện giật, vị trí tai nạn).",
+      "warning": "",
+      "image": "placeholder.svg"
+    },
+    {
+      "title": "Kiểm tra phản ứng và hô hấp",
+      "body": "Sau khi đảm bảo an toàn, kiểm tra xem nạn nhân có tỉnh táo không (gọi to, chạm nhẹ). Kiểm tra nhịp thở.",
+      "warning": "",
+      "image": "placeholder.svg"
+    },
+    {
+      "title": "Thực hiện Hồi sức tim phổi (CPR)",
+      "body": "Nếu nạn nhân bất tỉnh và không thở/thở hổn hển, bắt đầu ép tim ngay lập tức theo tỷ lệ 30:2 cho người lớn.",
+      "warning": "Tiếp tục CPR liên tục cho đến khi đội cấp cứu đến hoặc nạn nhân có dấu hiệu hồi phục.",
+      "image": "placeholder.svg"
+    },
+    {
+      "title": "Chăm sóc vết thương",
+      "body": "Sau khi đã ổn định hô hấp và tuần hoàn, kiểm tra các vết bỏng (nếu có). Che phủ bằng vật liệu sạch, khô, không dính.",
+      "warning": "Không bôi kem, dầu mỡ hoặc bất kỳ chất gì lên vết bỏng điện.",
+      "image": "placeholder.svg"
+    }
+  ]
+}

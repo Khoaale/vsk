@@ -1,0 +1,43 @@
+{
+  "id": "duoi-nuoc",
+  "title": "Sơ cứu đuối nước",
+  "category": "emergency",
+  "timeframe": "0-72h",
+  "urgency": "critical",
+  "icon": "waves",
+  "summary": "Cách tiếp cận và sơ cứu đúng để cứu sống người bị ngạt nước.",
+  "keywords": ["đuối nước", "chết đuối", "ngạt nước", "cứu hộ"],
+  "steps": [
+    {
+      "title": "Bước 1: Đưa nạn nhân ra khỏi nước an toàn",
+      "body": "Ném phao, dây, sào tre cho nạn nhân bám. Chỉ người biết bơi và được huấn luyện cứu hộ mới xuống nước trực tiếp.",
+      "image": "duoi-nuoc-1.svg",
+      "warning": "Nếu không biết bơi, TUYỆT ĐỐI không nhảy xuống nước. Nạn nhân hoảng loạn sẽ kéo cả hai chết chìm."
+    },
+    {
+      "title": "Bước 2: Kiểm tra hô hấp ngay lập tức",
+      "body": "Đặt nạn nhân nằm ngửa trên mặt phẳng cứng. Nhanh chóng kiểm tra lồng ngực có di động không.",
+      "image": "duoi-nuoc-2.svg",
+      "warning": "TUYỆT ĐỐI không dốc ngược nạn nhân chạy vòng vòng để 'xốc nước' — gây mất thời gian vàng cấp cứu."
+    },
+    {
+      "title": "Bước 3: Nếu ngừng thở — tiến hành CPR",
+      "body": "Móc sạch đàm nhớt. Thổi ngạt 2 hơi đầy, ép tim 30 lần (sâu 5-6cm). Lặp lại liên tục cho đến khi thở lại.",
+      "image": "duoi-nuoc-3.svg",
+      "warning": "Không ngừng CPR để 'xốc nước' — nước trong phổi sẽ tự ra khi nạn nhân thở lại."
+    },
+    {
+      "title": "Bước 4: Đưa đến viện kể cả khi đã tỉnh",
+      "body": "Gọi 115 ngay. Nguy cơ 'đuối nước thứ phát' (phù phổi cấp) có thể xảy ra vài giờ sau khi tỉnh.",
+      "image": "duoi-nuoc-4.svg",
+      "warning": null
+    }
+  ],
+  "references": [
+    {
+      "title": "Cổng thông tin điện tử Bộ Y tế",
+      "url": "https://moh.gov.vn"
+    }
+  ],
+  "lastUpdated": "2026-04-23"
+}

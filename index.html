@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0F0F0F" />
+    <meta name="color-scheme" content="dark" />
+    <title>VSK — Sổ tay Sinh tồn VN</title>
+    <link rel="manifest" href="manifest.json" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="top">
+      <div class="container">
+        <div class="brand">
+          <div class="brand__dot" aria-hidden="true"></div>
+          <div class="brand__text">
+            <div class="brand__title">Sổ tay Sinh tồn VN</div>
+            <div class="brand__sub">Vietnam Survival Kit (VSK)</div>
+          </div>
+        </div>
+        <div class="top__actions">
+          <button id="install-btn" class="btn btn--primary btn--tiny-primary" type="button" hidden>
+            Cài app vào điện thoại
+          </button>
+          <span
+            class="net-status"
+            id="net-status"
+            title="Mạng: trực tuyến"
+            role="status"
+            aria-live="polite"
+            aria-label="Trực tuyến"
+          >
+            <span class="net-status__dot" aria-hidden="true"></span>
+          </span>
+        </div>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="hero">
+        <h1 class="hero__title">Bạn cần làm gì?</h1>
+        <p class="hero__desc">Chọn bối cảnh để xem các hướng dẫn dạng bước‑theo‑bước.</p>
+
+        <form id="search-form" class="search" action="#" method="get">
+          <label class="search__label" for="search">Tìm nhanh (AI)</label>
+          <input
+            id="search"
+            class="search__input"
+            type="search"
+            name="q"
+            inputmode="search"
+            autocomplete="off"
+            spellcheck="false"
+            placeholder="Nhập từ khóa… (ví dụ: CPR, rắn cắn, oresol)"
+          />
+          <div id="search-results" class="search__results" hidden></div>
+        </form>
+
+        <div class="hero__actions">
+          <button id="btn-now" class="btn btn--primary" type="button">
+            Đang xảy ra ngay
+          </button>
+          <button id="btn-prep" class="btn btn--ghost" type="button">
+            Chuẩn bị trước
+          </button>
+        </div>
+      </section>
+
+      <section class="panel" aria-label="Mở nhanh">
+        <div class="panel__head">
+          <h2 class="panel__title">Mở nhanh</h2>
+        </div>
+        <div class="panel__content">
+          <div class="list">
+            <a class="item" href="contacts.html">
+              <div class="item__title">Danh bạ khẩn cấp</div>
+              <div class="item__meta">Số gọi ngay, thêm liên hệ cá nhân</div>
+            </a>
+            <a class="item" href="checklist.html">
+              <div class="item__title">Checklist túi sinh tồn</div>
+              <div class="item__meta">Theo dõi tiến độ bug-out bag</div>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel" aria-live="polite">
+        <div class="panel__head">
+          <h2 id="panel-title" class="panel__title">Gợi ý</h2>
+          <button id="btn-reset" class="btn btn--tiny" type="button" hidden>Về trang chủ</button>
+        </div>
+        <div id="panel-content" class="panel__content">
+          <div class="hint">
+            <div class="hint__title">Offline-ready</div>
+            <div class="hint__desc">
+              Sau lần mở đầu tiên, ứng dụng sẽ tự cache để dùng khi mất mạng.
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <footer class="footer">
+        <div class="footer__row">
+          <span class="footer__muted">VSK PWA • Dark mode mặc định</span>
+          <a class="footer__link" href="article.html?id=ran-can">Mở thử bài mẫu</a>
+        </div>
+      </footer>
+    </main>
+
+    <script type="module" src="semantic-search.js"></script>
+    <script defer src="app.js"></script>
+  </body>
+</html>

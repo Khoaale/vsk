@@ -1,0 +1,52 @@
+{
+  "id": "bi-dia-vat-can-mau-chay",
+  "title": "Sơ cứu vết cắn của đỉa/vắt gây chảy máu nhiều",
+  "category": "emergency",
+  "timeframe": "0-1h",
+  "urgency": "high",
+  "summary": "Ngăn chặn chảy máu và loại bỏ vật gây thương tích một cách an toàn.",
+  "keywords": [
+    "đỉa cắn",
+    "vắt cắn",
+    "chảy máu",
+    "sơ cứu rừng",
+    "chấn thương"
+  ],
+  "reasoning_trace": "Vết cắn gây chảy máu không ngừng là tình trạng mất máu cấp tính. Ưu tiên hàng đầu là kiểm soát xuất huyết (áp lực trực tiếp) và sau đó xử lý vết thương/loại bỏ vật thể nếu cần, đồng thời chuẩn bị cho việc sơ tán y tế.",
+  "references": [
+    "Bộ Y tế Việt Nam",
+    "Hướng dẫn cấp cứu cơ bản"
+  ],
+  "steps": [
+    {
+      "title": "Đảm bảo an toàn và gọi trợ giúp",
+      "body": "Giữ bình tĩnh. Đánh giá tình trạng nạn nhân (mức độ chảy máu, dấu hiệu sốc). Gọi ngay đội cứu hộ hoặc dịch vụ y tế khẩn cấp.",
+      "warning": "Không tự ý di chuyển nếu vết thương nghiêm trọng.",
+      "image": "placeholder.svg"
+    },
+    {
+      "title": "Kiểm soát chảy máu",
+      "body": "Dùng gạc sạch hoặc vải sạch ấn trực tiếp và mạnh lên vết cắn/vết thương. Giữ áp lực liên tục trong ít nhất 10-15 phút.",
+      "warning": "Không nhấc gạc lên để kiểm tra; chỉ tăng cường áp lực nếu máu thấm qua lớp gạc.",
+      "image": "placeholder.svg"
+    },
+    {
+      "title": "Nâng cao chi bị thương",
+      "body": "Nếu vết cắn ở tay hoặc chân, hãy nâng bộ phận đó lên cao hơn mức tim của nạn nhân trong khi vẫn duy trì áp lực.",
+      "warning": "Chỉ thực hiện nếu việc này không làm tăng đau đớn hoặc khó chịu cho bệnh nhân.",
+      "image": "placeholder.svg"
+    },
+    {
+      "title": "Loại bỏ vật thể (Nếu cần)",
+      "body": "CHỈ khi chảy máu đã được kiểm soát và vết cắn nông, hãy nhẹ nhàng gắp/nhổ đỉa hoặc vắt ra bằng nhíp sạch. Nếu đỉa còn bám chặt, giữ nguyên vị trí.",
+      "warning": "Tuyệt đối không dùng lửa hay vật sắc nhọn để nặn/cạy; điều này có thể làm tăng chảy máu và nhiễm trùng.",
+      "image": "placeholder.svg"
+    },
+    {
+      "title": "Chăm sóc sau sơ cứu",
+      "body": "Sau khi cầm máu, rửa sạch vết thương bằng nước sạch (nếu có). Băng bó lại bằng băng vô trùng hoặc vải sạch và giữ ấm cho nạn nhân.",
+      "warning": "Theo dõi các dấu hiệu nhiễm trùng (sưng, đỏ, sốt) và phản ứng dị ứng.",
+      "image": "placeholder.svg"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ngo-doc",
+  "title": "Sơ cứu ngộ độc thực phẩm",
+  "category": "emergency",
+  "timeframe": "0-72h",
+  "urgency": "high",
+  "icon": "skull",
+  "summary": "Xử lý khẩn cấp khi ăn phải thức ăn nhiễm khuẩn, nấm độc hoặc hóa chất.",
+  "keywords": ["ngộ độc", "đau bụng", "tiêu chảy", "nôn mửa", "thức ăn"],
+  "steps": [
+    {
+      "title": "Bước 1: Ngừng ngay thực phẩm nghi ngờ",
+      "body": "Ngừng ăn ngay. GIỮ LẠI mẫu thực phẩm và bao bì để bác sĩ phân tích nguyên nhân ngộ độc.",
+      "image": "ngo-doc-1.svg",
+      "warning": null
+    },
+    {
+      "title": "Bước 2: Bù nước bằng oresol",
+      "body": "Pha oresol ĐÚNG hướng dẫn (1 gói/1 lít nước). Cho uống từng ngụm nhỏ. Nếu không có, dùng nước chanh muối đường.",
+      "image": "ngo-doc-2.svg",
+      "warning": "Pha oresol đặc hơn hướng dẫn có thể gây ngộ độc muối, đặc biệt nguy hiểm với trẻ em."
+    },
+    {
+      "title": "Bước 3: KHÔNG tự dùng thuốc cầm tiêu chảy",
+      "body": "Tiêu chảy và nôn là cơ chế cơ thể tống độc tố ra ngoài. Cầm lại có thể giữ độc tố trong ruột lâu hơn, gây nặng thêm.",
+      "image": "ngo-doc-3.svg",
+      "warning": "Không móc họng gây nôn nếu đã qua 2 giờ, hoặc uống phải hóa chất ăn mòn/xăng dầu."
+    },
+    {
+      "title": "Bước 4: Đến viện lập tức nếu có dấu hiệu nặng",
+      "body": "Đi cấp cứu nếu: sốt cao, mất nước nặng (mắt trũng, môi khô), nôn ra máu, hoặc nghi ngộ độc nấm rừng/cá nóc/so biển.",
+      "image": "ngo-doc-4.svg",
+      "warning": "Ngộ độc nấm rừng, cá nóc có thể tử vong trong vài giờ dù ban đầu triệu chứng nhẹ. KHÔNG chờ đợi."
+    }
+  ],
+  "references": [
+    {
+      "title": "Cục An toàn Thực phẩm – Bộ Y tế",
+      "url": "https://vfa.gov.vn"
+    }
+  ],
+  "lastUpdated": "2026-04-23"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Sổ tay Sinh tồn VN",
+  "short_name": "VSK",
+  "start_url": "index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0F0F0F",
+  "theme_color": "#0F0F0F",
+  "description": "Vietnam Survival Kit — hướng dẫn sinh tồn dạng step-by-step, offline-first.",
+  "lang": "vi",
+  "icons": [
+    {
+      "src": "assets/icon-orange.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-orange.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

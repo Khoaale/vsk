@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0F0F0F" />
+    <meta name="color-scheme" content="dark" />
+    <title>VSK — Checklist</title>
+    <link rel="manifest" href="manifest.json" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="top">
+      <div class="container">
+        <div class="brand">
+          <a class="btn btn--tiny" href="/" aria-label="Về trang chủ">←</a>
+          <div class="brand__text">
+            <div class="brand__title">Checklist</div>
+            <div class="brand__sub" id="checklist-sub">Đang tải…</div>
+          </div>
+        </div>
+        <div class="top__actions">
+          <span
+            class="net-status"
+            id="net-status"
+            title="Mạng: trực tuyến"
+            role="status"
+            aria-live="polite"
+            aria-label="Trực tuyến"
+          >
+            <span class="net-status__dot" aria-hidden="true"></span>
+          </span>
+        </div>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="hero">
+        <h1 id="checklist-title" class="article__title">Bug-out Bag</h1>
+        <p class="article__summary">
+          Tiến độ: <span id="checklist-progress">0%</span>
+        </p>
+      </section>
+
+      <section class="panel" aria-live="polite">
+        <div class="panel__head">
+          <h2 class="panel__title">Danh sách</h2>
+          <button id="checklist-reset" class="btn btn--tiny" type="button">Reset</button>
+        </div>
+        <div id="checklist-list" class="panel__content"></div>
+      </section>
+
+      <footer class="footer">
+        <div class="footer__row">
+          <span class="footer__muted">Lưu offline bằng localStorage</span>
+          <a class="footer__link" href="/">Trang chủ</a>
+        </div>
+      </footer>
+    </main>
+
+    <script defer src="app.js"></script>
+  </body>
+</html>
+

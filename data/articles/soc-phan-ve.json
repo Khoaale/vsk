@@ -1,0 +1,43 @@
+{
+  "id": "soc-phan-ve",
+  "title": "Sơ cứu sốc phản vệ",
+  "category": "emergency",
+  "timeframe": "0-72h",
+  "urgency": "critical",
+  "icon": "zap",
+  "summary": "Phát hiện và xử lý phản ứng dị ứng cấp tính có thể gây tử vong trong vài phút.",
+  "keywords": ["sốc phản vệ", "dị ứng", "thuốc", "ong đốt", "hải sản"],
+  "steps": [
+    {
+      "title": "Bước 1: NHẬN BIẾT sốc phản vệ",
+      "body": "Dấu hiệu sau khi tiếp xúc dị nguyên: nổi mề đay, khó thở/thở rít, tụt huyết áp, sưng môi/mắt, ngất xỉu.",
+      "image": "soc-phan-ve-1.svg",
+      "warning": "Chỉ cần 2 triệu chứng xuất hiện cùng lúc = SỐC PHẢN VỆ. Tính mạng tính bằng PHÚT."
+    },
+    {
+      "title": "Bước 2: GỌI 115 NGAY",
+      "body": "Đây là cấp cứu tối cao. Cần xe cấp cứu có oxy và adrenalin. Ngừng ngay tiếp xúc với thuốc/thức ăn gây dị ứng.",
+      "image": "soc-phan-ve-2.svg",
+      "warning": "Sốc phản vệ có thể tử vong trong 5–15 phút nếu không xử trí."
+    },
+    {
+      "title": "Bước 3: Đặt đúng tư thế — dùng EpiPen",
+      "body": "Đặt nằm ngửa, KÊ CAO CHÂN. Nếu có bút tiêm adrenalin tự động (EpiPen): tiêm ngay vào mặt ngoài đùi.",
+      "image": "soc-phan-ve-3.svg",
+      "warning": "Không để nạn nhân ĐỨNG hay NGỒI dậy đột ngột — có thể làm ngừng tim."
+    },
+    {
+      "title": "Bước 4: CPR và theo dõi",
+      "body": "Nếu ngừng thở/ngừng tim: tiến hành CPR ngay. Dù đã tỉnh sau tiêm EpiPen VẪN phải đến viện.",
+      "image": "soc-phan-ve-4.svg",
+      "warning": "Pha 2 của sốc có thể xảy ra sau 4–24 giờ — BẮT BUỘC nằm viện theo dõi."
+    }
+  ],
+  "references": [
+    {
+      "title": "Thông tư 51/2017/TT-BYT – Bộ Y tế",
+      "url": "https://moh.gov.vn"
+    }
+  ],
+  "lastUpdated": "2026-04-23"
+}

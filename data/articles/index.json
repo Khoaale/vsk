@@ -1,0 +1,145 @@
+[
+  {
+    "id": "bi-dia-vat-can-mau-chay",
+    "title": "Sơ cứu vết cắn của đỉa/vắt gây chảy máu nhiều",
+    "summary": "Ngăn chặn chảy máu và loại bỏ vật gây thương tích một cách an toàn.",
+    "keywords": [
+      "đỉa cắn",
+      "vắt cắn",
+      "chảy máu",
+      "sơ cứu rừng",
+      "chấn thương"
+    ]
+  },
+  {
+    "id": "cam-mau",
+    "title": "Cầm máu vết thương nặng",
+    "summary": "Cách cầm máu hiệu quả tránh mất máu cấp, bảo vệ tính mạng.",
+    "keywords": [
+      "máu",
+      "cầm máu",
+      "chảy máu",
+      "vết thương",
+      "đứt mạch"
+    ]
+  },
+  {
+    "id": "da-phai-dinh-gi-set-trong-nuoc-lu",
+    "title": "Sơ cứu vết thương do vật sắc nhọn (đinh)",
+    "summary": "Ngăn ngừa nhiễm trùng và kiểm soát chảy máu sau khi bị đâm bởi vật gỉ sét trong môi trường ô nhiễm.",
+    "keywords": [
+      "vết thương sâu",
+      "nhiễm trùng",
+      "ngộ độc",
+      "sơ cứu thảm họa"
+    ]
+  },
+  {
+    "id": "dien-giat-do-cot-dien-do-xuong-nuoc",
+    "title": "Sơ cứu nạn nhân bị điện giật (Cột điện)",
+    "summary": "Ngắt nguồn điện an toàn trước khi tiếp cận và kiểm tra dấu hiệu sinh tồn của nạn nhân.",
+    "keywords": [
+      "điện giật",
+      "cột điện",
+      "sốc điện",
+      "CPR",
+      "an toàn"
+    ]
+  },
+  {
+    "id": "duoi-nuoc",
+    "title": "Sơ cứu đuối nước",
+    "summary": "Cách tiếp cận và sơ cứu đúng để cứu sống người bị ngạt nước.",
+    "keywords": [
+      "đuối nước",
+      "chết đuối",
+      "ngạt nước",
+      "cứu hộ"
+    ]
+  },
+  {
+    "id": "hoc-di-vat",
+    "title": "Sơ cứu hóc dị vật (Heimlich)",
+    "summary": "Nghiệm pháp Heimlich đẩy dị vật ra khỏi đường thở đang bị tắc nghẽn.",
+    "keywords": [
+      "hóc",
+      "nghẹt thở",
+      "nghẹn",
+      "dị vật",
+      "heimlich"
+    ]
+  },
+  {
+    "id": "loc-nuoc",
+    "title": "Lọc và khử trùng nước uống",
+    "summary": "Quy trình chuẩn Bộ Y tế để có nước uống an toàn: Làm trong, khử trùng và đun sôi.",
+    "keywords": [
+      "nước",
+      "lọc",
+      "khát",
+      "đun sôi",
+      "cloramin b",
+      "aquatabs"
+    ]
+  },
+  {
+    "id": "ngo-doc",
+    "title": "Sơ cứu ngộ độc thực phẩm",
+    "summary": "Xử lý khẩn cấp khi ăn phải thức ăn nhiễm khuẩn, nấm độc hoặc hóa chất.",
+    "keywords": [
+      "ngộ độc",
+      "đau bụng",
+      "tiêu chảy",
+      "nôn mửa",
+      "thức ăn"
+    ]
+  },
+  {
+    "id": "ran-can",
+    "title": "Sơ cứu khi bị rắn cắn",
+    "summary": "5 bước xử lý ngay khi bị rắn cắn ở Việt Nam. Tránh các sai lầm phổ biến có thể gây hoại tử hoặc tử vong.",
+    "keywords": [
+      "rắn",
+      "cắn",
+      "độc",
+      "nọc",
+      "hổ mang",
+      "lục"
+    ]
+  },
+  {
+    "id": "soc-phan-ve",
+    "title": "Sơ cứu sốc phản vệ",
+    "summary": "Phát hiện và xử lý phản ứng dị ứng cấp tính có thể gây tử vong trong vài phút.",
+    "keywords": [
+      "sốc phản vệ",
+      "dị ứng",
+      "thuốc",
+      "ong đốt",
+      "hải sản"
+    ]
+  },
+  {
+    "id": "tre-nuot-dong-xu",
+    "title": "Xử lý khi trẻ sơ sinh/trẻ nhỏ nuốt vật lạ (đồng xu)",
+    "summary": "Giữ bình tĩnh, theo dõi sát sao và tìm kiếm sự can thiệp y tế chuyên nghiệp ngay lập tức.",
+    "keywords": [
+      "trẻ em",
+      "nuốt vật lạ",
+      "đồng xu",
+      "sơ cứu nhi khoa"
+    ]
+  },
+  {
+    "id": "ve-sinh",
+    "title": "Vệ sinh khi mất điện/nước",
+    "summary": "Cách duy trì vệ sinh cá nhân và khu ở để phòng tránh dịch bệnh lây lan sau thảm họa.",
+    "keywords": [
+      "vệ sinh",
+      "thiếu nước",
+      "rửa tay",
+      "hố tiêu",
+      "dịch bệnh"
+    ]
+  }
+]

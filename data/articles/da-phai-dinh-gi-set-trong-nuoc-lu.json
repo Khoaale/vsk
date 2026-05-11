@@ -1,0 +1,51 @@
+{
+  "id": "da-phai-dinh-gi-set-trong-nuoc-lu",
+  "title": "Sơ cứu vết thương do vật sắc nhọn (đinh)",
+  "category": "emergency",
+  "timeframe": "0-1h",
+  "urgency": "critical",
+  "summary": "Ngăn ngừa nhiễm trùng và kiểm soát chảy máu sau khi bị đâm bởi vật gỉ sét trong môi trường ô nhiễm.",
+  "keywords": [
+    "vết thương sâu",
+    "nhiễm trùng",
+    "ngộ độc",
+    "sơ cứu thảm họa"
+  ],
+  "reasoning_trace": "Bị đinh gỉ sét trong nước lũ là nguy cơ cao về nhiễm trùng (vi khuẩn, bệnh truyền qua nước) và tổn thương mô. Ưu tiên hàng đầu là kiểm soát chảy máu, làm sạch vết thương triệt để, và đánh giá nguy cơ uốn ván/nhiễm trùng nặng.",
+  "references": [
+    "Bộ Y tế Việt Nam",
+    "WHO Guidelines on Wound Care"
+  ],
+  "steps": [
+    {
+      "title": "Đảm bảo an toàn cá nhân",
+      "body": "Mang găng tay bảo hộ. Không chạm trực tiếp vào vết thương nếu không có dụng cụ y tế phù hợp.",
+      "warning": "Tránh tiếp xúc với nước lũ hoặc vật thể bẩn khác.",
+      "image": "placeholder.svg"
+    },
+    {
+      "title": "Kiểm soát chảy máu",
+      "body": "Dùng gạc sạch (hoặc vải sạch) ấn trực tiếp và mạnh lên vết thương cho đến khi cầm máu.",
+      "warning": "Không cố gắng rút đinh ra nếu nó còn đang cắm sâu, chỉ băng ép xung quanh.",
+      "image": "placeholder.svg"
+    },
+    {
+      "title": "Làm sạch vết thương",
+      "body": "Sau khi cầm máu, rửa nhẹ nhàng vết thương dưới vòi nước sạch (nếu có) hoặc dung dịch sát khuẩn vô trùng. Loại bỏ dị vật nhỏ nếu dễ dàng.",
+      "warning": "Không dùng cồn/oxy già trực tiếp vào vết thương sâu vì có thể gây tổn thương mô.",
+      "image": "placeholder.svg"
+    },
+    {
+      "title": "Băng bó và theo dõi",
+      "body": "Sát trùng vùng da xung quanh, sau đó băng vết thương bằng gạc vô trùng, cố định lỏng lẻo. Theo dõi dấu hiệu nhiễm trùng (sưng, đỏ, nóng, đau tăng).",
+      "warning": "Vết thương này cần được bác sĩ đánh giá về nguy cơ uốn ván và nhiễm trùng nặng.",
+      "image": "placeholder.svg"
+    },
+    {
+      "title": "Tìm kiếm trợ giúp y tế khẩn cấp",
+      "body": "Di chuyển nạn nhân đến cơ sở y tế gần nhất càng sớm càng tốt để tiêm phòng uốn ván và kháng sinh dự phòng.",
+      "warning": "Không trì hoãn việc tìm kiếm sự chăm sóc chuyên nghiệp.",
+      "image": "placeholder.svg"
+    }
+  ]
+}

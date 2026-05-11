@@ -1,0 +1,40 @@
+{
+    "id": "tre-nuot-dong-xu",
+    "title": "Xử lý khi trẻ sơ sinh/trẻ nhỏ nuốt vật lạ (đồng xu)",
+    "category": "emergency",
+    "timeframe": "0-1h",
+    "urgency": "high",
+    "summary": "Giữ bình tĩnh, theo dõi sát sao và tìm kiếm sự can thiệp y tế chuyên nghiệp ngay lập tức.",
+    "keywords": [
+      "trẻ em",
+      "nuốt vật lạ",
+      "đồng xu",
+      "sơ cứu nhi khoa"
+    ],
+    "reasoning_trace": "Nạn nhân là trẻ 8 tháng tuổi (rất nhỏ). Dấu hiệu sinh tồn ban đầu là đang ho được, cho thấy đường thở chưa bị tắc nghẽn hoàn toàn. Tuy nhiên, việc nuốt vật lạ ở trẻ sơ sinh luôn có nguy cơ cao gây tắc nghẽn hoặc tổn thương nội tạng nghiêm trọng. Mức độ khẩn cấp là Cao (High) vì cần đánh giá y tế chuyên sâu để loại trừ nguy cơ tắc nghẽn đường thở hoặc hít sặc.",
+    "references": [
+      "Bộ Y tế Việt Nam",
+      "Hội Chữ thập đỏ"
+    ],
+    "steps": [
+      {
+        "title": "BƯỚC KHẨN CẤP: GỌI TRỢ GIÚP",
+        "body": "Ngay lập tức gọi cấp cứu 115 hoặc đưa trẻ đến cơ sở y tế gần nhất. Tuyệt đối không cố gắng tự nôn hay dùng bất kỳ dụng cụ nào để lấy vật lạ ra khỏi miệng trẻ.",
+        "warning": "GỌI 115 HOẶC TÌM Y TẾ NGAY LẬP TỨC",
+        "image": "placeholder-1.svg"
+      },
+      {
+        "title": "Theo dõi hô hấp và dấu hiệu sinh tồn",
+        "body": "Trong khi chờ đợi, giữ trẻ ở tư thế thoải mái nhất để dễ thở. Quan sát chặt chẽ các dấu hiệu như tím tái, khó thở tăng lên, hoặc nôn trớ.",
+        "warning": "",
+        "image": "placeholder-2.svg"
+      },
+      {
+        "title": "Hỗ trợ và trấn an",
+        "body": "Giữ bình tĩnh để trẻ không bị hoảng sợ thêm. Cung cấp thông tin chi tiết về vật lạ (đồng xu) cho nhân viên y tế khi họ đến.",
+        "warning": "",
+        "image": "placeholder-3.svg"
+      }
+    ]
+  }
+  

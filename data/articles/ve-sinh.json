@@ -1,0 +1,43 @@
+{
+  "id": "ve-sinh",
+  "title": "Vệ sinh khi mất điện/nước",
+  "category": "preparation",
+  "timeframe": "3 ngày – 2 tuần",
+  "urgency": "medium",
+  "icon": "shield",
+  "summary": "Cách duy trì vệ sinh cá nhân và khu ở để phòng tránh dịch bệnh lây lan sau thảm họa.",
+  "keywords": ["vệ sinh", "thiếu nước", "rửa tay", "hố tiêu", "dịch bệnh"],
+  "steps": [
+    {
+      "title": "Bước 1: Ưu tiên phân bổ nước",
+      "body": "Thứ tự: uống > nấu > rửa tay > tắm > giặt. Cần tối thiểu 4 lít/người/ngày cho tất cả mục đích. Nước đã qua sử dụng dùng để xả nhà vệ sinh.",
+      "image": "ve-sinh-1.svg",
+      "warning": "Không pha chung nước uống với nước dùng cho mục đích khác — dễ nhiễm khuẩn chéo."
+    },
+    {
+      "title": "Bước 2: Tắm khô và vệ sinh tối giản",
+      "body": "Tắm khăn ẩm: chỉ cần 500ml nước + 1 khăn sạch, tập trung nách và bẹn. Gội đầu bằng phấn rôm hút dầu để kéo dài thời gian giữa các lần gội.",
+      "image": "ve-sinh-2.svg",
+      "warning": null
+    },
+    {
+      "title": "Bước 3: Rửa tay là bắt buộc",
+      "body": "Dùng chai nhựa khoét lỗ nhỏ ở nắp làm vòi rửa tiết kiệm. Bắt buộc rửa bằng xà phòng trước khi ăn, sau khi đi vệ sinh.",
+      "image": "ve-sinh-3.svg",
+      "warning": "Rửa tay đúng cách giảm 50% nguy cơ tiêu chảy trong khu dân cư mất vệ sinh."
+    },
+    {
+      "title": "Bước 4: Xử lý chất thải đúng cách",
+      "body": "Nếu bồn cầu không xả được: Đào hố tiêu tạm sâu 1m, cách nguồn nước TỐI THIỂU 20m. Rắc vôi bột hoặc tro bếp sau mỗi lần đi.",
+      "image": "ve-sinh-4.svg",
+      "warning": "Hố tiêu gần nguồn nước uống là nguyên nhân phổ biến nhất của dịch tả/lỵ sau thiên tai."
+    }
+  ],
+  "references": [
+    {
+      "title": "Cục Quản lý Môi trường Y tế – Bộ Y tế",
+      "url": "https://vihema.gov.vn"
+    }
+  ],
+  "lastUpdated": "2026-04-23"
+}
