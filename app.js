@@ -1,5 +1,7 @@
 /* VSK minimal PWA (vanilla JS) */
 
+let deferredPrompt;
+
 const ARTICLE_INDEX_URL = "data/articles/index.json";
 const ARTICLE_DIR = "data/articles";
 const IMAGE_DIR = "assets/images";
@@ -283,17 +285,6 @@ function initInstallPrompt() {
   const btn = $("#install-btn");
   if (!btn) return;
 
-  // If already installed (where supported), keep hidden
-  const isInstalled =
-    (window.matchMedia && window.matchMedia("(display-mode: standalone)").matches) ||
-    window.navigator.standalone === true;
-  if (isInstalled) {
-    btn.hidden = true;
-    return;
-  }
-
-  let deferredPrompt = null;
-
   window.addEventListener("beforeinstallprompt", (e) => {
     e.preventDefault();
     deferredPrompt = e;
@@ -302,17 +293,10 @@ function initInstallPrompt() {
 
   btn.addEventListener("click", async () => {
     if (!deferredPrompt) return;
-    btn.disabled = true;
-    try {
-      deferredPrompt.prompt();
-      await deferredPrompt.userChoice;
-    } catch {
-      // ignore
-    } finally {
-      deferredPrompt = null;
-      btn.hidden = true;
-      btn.disabled = false;
-    }
+    deferredPrompt.prompt();
+    await deferredPrompt.userChoice;
+    deferredPrompt = null;
+    btn.hidden = true;
   });
 }
 
@@ -694,11 +678,11 @@ async function initArticlePage() {
   </div>`;
 }
 
-registerSW();
 initNetStatus();
+initInstallPrompt();
 initIndexPage();
 initArticlePage();
 initChecklistBugoutPage();
 initContactsPage();
-initInstallPrompt();
+registerSW();
 
